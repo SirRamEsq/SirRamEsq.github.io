@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-# SirRamEsq
-SirRamEsq's software development stuff.
-Game Dev stuff, config files, and misc projects abound!
+# About
+Ryan Lloyd's stuff.
 
 ## RMSmartShape
 [Github Link](https://github.com/remorse107/rmsmartshape2d)
